@@ -1,0 +1,1 @@
+curriculum Erick Arias Munoz
