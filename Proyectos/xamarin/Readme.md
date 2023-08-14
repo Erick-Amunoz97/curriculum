@@ -1,0 +1,1 @@
+# Los proyectos en xamarin los subí como archivos comprimidos ya que son demasiado grandes
