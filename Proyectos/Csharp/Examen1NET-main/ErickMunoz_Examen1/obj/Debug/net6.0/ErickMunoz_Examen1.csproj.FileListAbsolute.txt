@@ -1,0 +1,30 @@
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.csproj.AssemblyReference.cache
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.AssemblyInfoInputs.cache
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.AssemblyInfo.cs
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.exe
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.deps.json
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.runtimeconfig.json
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.dll
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\bin\Debug\net6.0\ref\ErickMunoz_Examen1.dll
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.pdb
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.dll
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ref\ErickMunoz_Examen1.dll
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.pdb
+C:\Users\carlo\CODIGOFUENTE\ErickMunoz_Examen1\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.genruntimeconfig.cache
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.exe
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.deps.json
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.runtimeconfig.json
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.dll
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\bin\Debug\net6.0\ErickMunoz_Examen1.pdb
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.csproj.AssemblyReference.cache
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.AssemblyInfoInputs.cache
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.AssemblyInfo.cs
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.csproj.CoreCompileInputs.cache
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.dll
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\refint\ErickMunoz_Examen1.dll
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.pdb
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ErickMunoz_Examen1.genruntimeconfig.cache
+C:\Users\foxmc\Documents\Ing Software\Proyectos\Examen1NET-main\ErickMunoz_Examen1\obj\Debug\net6.0\ref\ErickMunoz_Examen1.dll

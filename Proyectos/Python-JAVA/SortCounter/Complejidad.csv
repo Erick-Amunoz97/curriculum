@@ -1,0 +1,123 @@
+Insertion Sort Complejidad:
+n = 5 , pasos: 35
+n = 6 , pasos: 79
+n = 7 , pasos: 128
+n = 8 , pasos: 190
+n = 9 , pasos: 293
+n = 10 , pasos: 417
+n = 11 , pasos: 546
+n = 12 , pasos: 752
+n = 13 , pasos: 903
+n = 14 , pasos: 1175
+n = 15 , pasos: 1460
+n = 20 , pasos: 1866
+n = 25 , pasos: 2669
+n = 30 , pasos: 3473
+n = 35 , pasos: 4662
+n = 40 , pasos: 6440
+n = 50 , pasos: 9020
+n = 60 , pasos: 12862
+n = 70 , pasos: 17766
+n = 80 , pasos: 24592
+n = 90 , pasos: 33132
+n = 100 , pasos: 43858
+------------------------------------------------------------------------------------------
+Bubble Sort Complejidad:
+
+n = 5 , pasos: 42
+n = 6 , pasos: 108
+n = 7 , pasos: 202
+n = 8 , pasos: 336
+n = 9 , pasos: 494
+n = 10 , pasos: 680
+n = 11 , pasos: 924
+n = 12 , pasos: 1242
+n = 13 , pasos: 1608
+n = 14 , pasos: 2006
+n = 15 , pasos: 2482
+n = 20 , pasos: 3326
+n = 25 , pasos: 4658
+n = 30 , pasos: 6550
+n = 35 , pasos: 9062
+n = 40 , pasos: 12388
+n = 50 , pasos: 17548
+n = 60 , pasos: 24924
+n = 70 , pasos: 34972
+n = 80 , pasos: 48232
+n = 90 , pasos: 64742
+n = 100 , pasos: 85164
+------------------------------------------------------------------------------------------
+Merge Sort Complejidad:
+
+n = 5 , pasos: 44
+n = 6 , pasos: 102
+n = 7 , pasos: 175
+n = 8 , pasos: 263
+n = 9 , pasos: 370
+n = 10 , pasos: 495
+n = 11 , pasos: 638
+n = 12 , pasos: 801
+n = 13 , pasos: 982
+n = 14 , pasos: 1182
+n = 15 , pasos: 1402
+n = 20 , pasos: 1731
+n = 25 , pasos: 2172
+n = 30 , pasos: 2730
+n = 35 , pasos: 3411
+n = 40 , pasos: 4223
+n = 50 , pasos: 5305
+n = 60 , pasos: 6655
+n = 70 , pasos: 8285
+n = 80 , pasos: 10230
+n = 90 , pasos: 12482
+n = 100 , pasos: 15040
+------------------------------------------------------------------------------------------
+Heap Sort Complejidad:
+
+n = 5 , pasos: 13
+n = 6 , pasos: 33
+n = 7 , pasos: 60
+n = 8 , pasos: 98
+n = 9 , pasos: 143
+n = 10 , pasos: 202
+n = 11 , pasos: 274
+n = 12 , pasos: 357
+n = 13 , pasos: 455
+n = 14 , pasos: 570
+n = 15 , pasos: 700
+n = 20 , pasos: 931
+n = 25 , pasos: 1291
+n = 30 , pasos: 1805
+n = 35 , pasos: 2497
+n = 40 , pasos: 3393
+n = 50 , pasos: 4791
+n = 60 , pasos: 6770
+n = 70 , pasos: 9443
+n = 80 , pasos: 12910
+n = 90 , pasos: 17276
+n = 100 , pasos: 22656
+------------------------------------------------------------------------------------------
+QuickSort Complejidad:
+
+n = 5 , pasos: 49
+n = 6 , pasos: 136
+n = 7 , pasos: 234
+n = 8 , pasos: 317
+n = 9 , pasos: 415
+n = 10 , pasos: 583
+n = 11 , pasos: 748
+n = 12 , pasos: 950
+n = 13 , pasos: 1119
+n = 14 , pasos: 1386
+n = 15 , pasos: 1630
+n = 20 , pasos: 2055
+n = 25 , pasos: 2661
+n = 30 , pasos: 3354
+n = 35 , pasos: 4075
+n = 40 , pasos: 4942
+n = 50 , pasos: 6075
+n = 60 , pasos: 7919
+n = 70 , pasos: 9844
+n = 80 , pasos: 12143
+n = 90 , pasos: 14740
+n = 100 , pasos: 17970
